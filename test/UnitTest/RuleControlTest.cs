@@ -1,7 +1,5 @@
 using AdCase.Domain.Helpers;
 using AdCase.Domain.Rules;
-using System;
-using System.Formats.Asn1;
 
 namespace UnitTest
 {
